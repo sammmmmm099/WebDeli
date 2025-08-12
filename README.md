@@ -53,11 +53,3 @@ You only need a modern browser to preview. For local development you can optiona
 
 - Node.js + npm (if using a dev server or build tooling)
 - Live Server (VS Code extension) or `http-server` / `serve` npm packages
-
----
-
-## 🛠️ Local Development (Simple)
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/<your-username>/webinstant.git
-   cd webinstant
